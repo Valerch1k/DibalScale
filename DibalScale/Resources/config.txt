@@ -1,0 +1,4 @@
+server=LONERPK
+sqlserver=SQLEXPRESS
+datebase=testdb
+numberprogramimport=1
